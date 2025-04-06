@@ -1,5 +1,5 @@
 body {
-    background: #8C52FF;
+    background: #2a3fb1;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     align-items: center;
@@ -46,7 +46,7 @@ button {
 }
 
 button:hover {
-    background: #8b48d7;
+    background: #2a3fb1;
 }
 
 #temp-div p {
